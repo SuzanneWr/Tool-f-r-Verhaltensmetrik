@@ -1,1 +1,2 @@
 # Tool-fuer-Verhaltensmetrik
+Es spielen zwei Spieler auf zwei Labelled Markov-Ketten mit jeweils einem Zustand aus den beiden Markov-Ketten und einer maximalen erlaubten Distanz. Einer der Spieler, der Duplicator gewinnt, wenn gezeigt werden kann, dass die beiden gewaehlten Zustaende eine kleinere oder gleiche Distanz haben als die maximale erlaubte Distanz. Der Spoiler gewinnt, wenn gezeigt werden kann, dass die beiden gewaehlten Zustaende eine groeßere Distanz haben als die maximale erlaubte Distanz. Benutzt Orange Peel UI von Raymond R. Buckley
